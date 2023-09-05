@@ -22,6 +22,9 @@
 
 </p>
 
+
+
+
 <h2 align="center"> My Skills 💻 </h2>
 <h3 align="center">Languages, Libraries and Frameworks:</h3>
 <p align="center">
@@ -56,10 +59,26 @@
 </p>
 
 
-<h2 align="center"> My Coding Profiles :</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2002139&theme=radical" alt="deepak2002139" /></p><br/>
+
+
+
+
+
+<h2 align="center"> My GitHub Streak:</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek3072&theme=radical" alt="vivek3072" /></p><br/>
 <!-- //algolia  -->
-<h2 align="center">LeetCode:</h2>
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak2002139&show_icons=true&locale=en&theme=radical" alt="deepak2002139" />
-<img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak2002139&show_icons=true&locale=en&layout=compact&theme=radical" alt="deepak2002139" /></p>
+<h2 align="center"> My GitHub stats:</h2>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek3072&show_icons=true&locale=en&theme=radical" alt="vivek3072" />
+<img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek3072&show_icons=true&locale=en&layout=compact&theme=radical" alt="vivek3072" /></p>
 <br/>
+<h2 align="center"> My Contribution graph:</h2>
+<a href="https://github.com/Vivek3072/github-readme-activity-graph"><img alt="Vivek's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Vivek3072&bg_color=141321&color=D93A7C&line=F85D7F&point=F1E05A" /></a>
+
+<br/> <br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek3072&column=6&margin-w=10&margin-h=10&theme=radical" alt="vivek3072" /></a> </p>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=See%20you%20next%20time🤗.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
+</p>
+<hr/>
