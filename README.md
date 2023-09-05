@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Deepak kumar</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Backend-end%20web%20developer;Eager %20to %20expand %20my s%20kill %20set %20through %20external %20trainings %20to %20help %20boost %20all %20major %20works %20in %20future. &font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Backend-end%20web%20developer,;Eager %20to%20expand%20my%20skill%20set%20through%20external%20trainings%20to%20help%20boost%20all%20major%20works%20in%20future.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak2002139&label=Profile%20views&color=0e75b6&style=flat" alt="deepak2002139" /> </p>
 
