@@ -18,8 +18,8 @@
 <p align="center">
 <a href="[https://www.linkedin.com/in/deepak-kumar-0b11b7210/](https://www.linkedin.com/in/deepak-kumar-0b11b7210/)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/deepak-kumar-0b11b7210/" height="35" width="35" /></a>
   
-  <a href="https://www.instagram.com/vvk_srvstv_/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="vvk_srvstv_" height="35" width="35" /></a>
-  <a href="https://twitter.com/itsvvkhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vvk_srvstv_" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/d_e_e.p_a_k/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="vvk_srvstv_" height="35" width="35" /></a>
+
 </p>
 
 <h2 align="center"> My Skills 💻 </h2>
