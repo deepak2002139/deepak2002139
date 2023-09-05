@@ -46,13 +46,13 @@
 <p align="center">
      <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.firebase.google.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="aws" width="40" height="40"/> </a>
+<!--   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="aws" width="40" height="40"/> </a> -->
       <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs-code" width="40" height="40"/> </a> 
-<a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="50" height="50"/> </a> 
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+<!-- <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="50" height="50"/> </a>  -->
+<!--   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  -->
   <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg" alt="netlify" width="40" height="40"/> </a> 
-  <a href="https://onrender.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_477db83f729d63210139ec7cd29c1351/render-render.png" alt="render" width="40" height="40"/> </a> 
+<!--   <a href="https://onrender.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_477db83f729d63210139ec7cd29c1351/render-render.png" alt="render" width="40" height="40"/> </a>  -->
 </p>
 
 
