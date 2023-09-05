@@ -1,20 +1,18 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Vivek Srivastava</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Deepak kumar</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Full-stack%20web%20developer,;An%20enthusiast%20UI%2FUX%20Designer,;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3072&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3072" /> </p>
 
-- 👨‍💻 Currently working on [Tweeter](https://twitter-clone-zwb6.onrender.com/) app.
+- 👨‍💻 Currently working on [Hackbreeze](https://github.com/gdscnitp/Hackbreeze) app.
 
-- 👨‍💻 My completed MERN project [Qualido.in](https://www.qualido.in/) for my own startup.
+- 🌱 Focussed on enhancing my skills in  **Next.JS , DSA , C++.**
 
-- 🌱 Focussed on enhancing my skills in  **Next.JS , MERN , DSA , C++.**
-
-<!-- - 💬 Ask me about **Next , React , Html , Css , Figma .** -->
+<!-- - 💬 Ask me about **Next  , Html , Css , Figma , DSA ,Operating System, OOPS, DBMS.** -->
 
 - 📫 How to reach me **itsvvkhere@gmail.com**
 
-<!-- - 👨‍💻 My portfolio [https://vivek-srivastava.herokuapp.com/](https://vivek-srivastava.herokuapp.com/) -->
+<!-- - 👨‍💻 My portfolio []() -->
 
 <!-- - 📫 Hire me as UI/UX designer https://www.fiverr.com/share/bmREaq -->
 
