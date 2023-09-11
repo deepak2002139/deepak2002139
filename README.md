@@ -12,7 +12,7 @@
 
 - 📫 How to reach me ->deepak.naman2002@gmail.com
   
-- [Visit My Website ](https://deepak2002139.netlify.app/)
+-Visit My Portpolio      [Link](https://deepak2002139.netlify.app)
 
 
 <h3 align="center">Connect with me:</h3>
