@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak2002139&label=Profile%20views&color=0e75b6&style=flat" alt="deepak2002139" /> </p>
 
 
-- Visit My Portpolio   -->   [Portpolio Link](https://deepak2002139.netlify.app)
+- Visit My Portpolio   -->          ([Portpolio Link](https://deepak2002139.netlify.app))
 
 - 👨‍💻 Currently working on [Hackbreeze](https://github.com/gdscnitp/Hackbreeze) app.
 
