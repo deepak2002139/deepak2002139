@@ -4,6 +4,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak2002139&label=Profile%20views&color=0e75b6&style=flat" alt="deepak2002139" /> </p>
 
+
+- Visit My Portpolio   -->   [Portpolio Link](https://deepak2002139.netlify.app)
+
 - 👨‍💻 Currently working on [Hackbreeze](https://github.com/gdscnitp/Hackbreeze) app.
 
 - 🌱 Focussed on enhancing my skills in  ** DSA , C++ ,.**
@@ -11,7 +14,6 @@
 <!-- - 💬 Ask me about **Next  , Html , Css , Figma , DSA ,Operating System, OOPS, DBMS.** -->
 
 - 📫 How to reach me ->deepak.naman2002@gmail.com
-- Visit My Portpolio   -->   [Link](https://deepak2002139.netlify.app)
 
 
 <h3 align="center">Connect with me:</h3>
