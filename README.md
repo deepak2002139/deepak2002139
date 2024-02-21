@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently working on [Hackbreeze](https://github.com/gdscnitp/Hackbreeze) app.
 
-- 🌱 Focussed on enhancing my skills in  ** DSA , C++ ,.**
+- 🌱 Focussed on enhancing my skills in  ** DSA , C++ ,Python , ML ,DL.**
 
 <!-- - 💬 Ask me about **Next  , Html , Css , Figma , DSA ,Operating System, OOPS, DBMS.** -->
 
