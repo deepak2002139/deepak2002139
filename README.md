@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently working on [Hackbreeze](https://github.com/gdscnitp/Hackbreeze) app.
 
-- 🌱 Focussed on enhancing my skills in  ** DSA , C++ ,Python , ML ,DL.**
+- 🌱 Focussed on enhancing my skills in  ** DSA , Java ,SpringBoot, Spring Cloud ,Python , Flask , ML , DL.**
 
 <!-- - 💬 Ask me about **Next  , Html , Css , Figma , DSA ,Operating System, OOPS, DBMS.** -->
 
@@ -23,7 +23,6 @@
   <a href="https://www.instagram.com/d_e_e.p_a_k/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="vvk_srvstv_" height="35" width="35" /></a>
 
 </p>
-
 
 
 <h2 align="center"> My Skills 💻 </h2>
