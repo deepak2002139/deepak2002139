@@ -7,7 +7,7 @@
 
 - Visit My Portpolio   -->          ([Portpolio Link](https://deepak2002139.netlify.app))
 
-- 👨‍💻 Currently working on [Hackbreeze](https://github.com/gdscnitp/Hackbreeze) app.
+- 👨‍💻 Currently working on [Spring cloud Microserrvices](https://github.com/gdscnitp/Hackbreeze) (DNB Bank ASA).
 
 - 🌱 Focussed on enhancing my skills in  ** DSA , Java , SpringBoot , Spring Cloud , AWS , Python , Flask , ML , DL. **
 
