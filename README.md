@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Deepak kumar</h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Full-stack%20developer%20;Eager%20to%20expand%20my%20skill%20sets.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building%20scalable%20backend%20systems%20with%20Java%20%26%20Spring%20Boot;Exploring%20AI,%20RAG%20%26%20Agentic%20Workflows;Strong%20in%20DSA%20%26%20System%20Design&font=Fira%20Code&center=true&width=700&height=45&color=D93A7C&vCenter=true&size=22">
+  </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak2002139&label=Profile%20views&color=0e75b6&style=flat" alt="deepak2002139" /> </p>
 
