@@ -1,82 +1,119 @@
-<h1 align="center">Hi 🙋‍♂️, I'm Deepak kumar</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Deepak Kumar</h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20building%20scalable%20microservices%20with%20Spring%20Boot%20%26%20Kafka;Designing%20high-throughput,%20real-time%20systems%20in%20the%20payments%20domain;Exploring%20AI%20Systems,%20RAG%20%26%20Agentic%20Workflows&font=Fira%20Code&center=true&width=1100&height=50&color=D93A7C&vCenter=true&size=24&pause=1000">
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak2002139&label=Profile%20views&color=0e75b6&style=flat" alt="deepak2002139" /> </p>
-
-
-- Visit My Portpolio   -->          ([Portpolio Link](https://deepak2002139.netlify.app))
-
-- 👨‍💻 Currently working as a Backend Developer [ Spring cloud Microservices ](https://www.dnb.no/en) TCS (DNB Bank ASA).
-
-- 🌱 Focussed on enhancing my skills in  ** DSA , Java , SpringBoot , Spring Cloud , Apache Kafka, AWS , Python , Flask , ML , DL, RAG. **
-
-<!-- - 💬 Ask me about **Next  , Html , Css , Figma , DSA ,Operating System, OOPS, DBMS.** -->
-
-- 📫 How to reach me ->deepak.naman2002@gmail.com
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/deepak-kumar-0b11b7210" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/deepak-kumar-0b11b7210" height="35" width="35" /></a>
-  
-  <a href="https://www.instagram.com/d_e_e.p_a_k/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="vvk_srvstv_" height="35" width="35" /></a>
-
-</p>
-
-
-<h2 align="center"> My Skills 💻 </h2>
-<h3 align="center">Languages, Libraries and Frameworks:</h3>
-<p align="center">
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<!-- <a href="https://nextjs.org/" target="_blank"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a>  -->
-<!--    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
-<a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-<!--      <a href="https://typescriptlang.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> </a>  -->
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<!--   <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a> -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-       <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwind css" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="BOOTSTRAP" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-</p>
-<h3 align="center"> Tools and softwares:</h3>
-<p align="center">
-     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.firebase.google.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/firebase-3521427-2944871.png?f=webp&w=256" alt="firebase" width="40" height="40"/> </a> 
-<!--   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="aws" width="40" height="40"/> </a> -->
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs-code" width="40" height="40"/> </a> 
-<!-- <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="50" height="50"/> </a>  -->
-<!--   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  -->
-  <a href="https://www.netlify.com/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-svg-vector.svg" alt="netlify" width="40" height="40"/> </a> 
-<!--   <a href="https://onrender.com/" target="_blank"> <img src="https://images.g2crowd.com/uploads/product/image/small_square/small_square_477db83f729d63210139ec7cd29c1351/render-render.png" alt="render" width="40" height="40"/> </a>  -->
-</p>
-
-
-
-
-
-<h2 align="center"> My GitHub Streak:</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2002139&theme=radical" alt="deepak2002139" /></p><br/>
-<!-- //algolia  -->
-<h2 align="center"> My GitHub stats:</h2>
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak2002139&show_icons=true&locale=en&theme=radical" alt="deepak2002139" />
-<img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak2002139&show_icons=true&locale=en&layout=compact&theme=radical" alt="deepak2002139" /></p>
-<br/>
-<h2 align="center"> My Contribution graph:</h2>
-<a href="https://github.com/deepak2002139/github-readme-activity-graph"><img alt="Deepak's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=deepak2002139&bg_color=141321&color=D93A7C&line=F85D7F&point=F1E05A" /></a>
-
-<br/> <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak2002139&column=6&margin-w=10&margin-h=10&theme=radical" alt="deepak2002139" /></a> </p>
-<br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=See%20you%20next%20time🤗.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
+  <img src="https://komarev.com/ghpvc/?username=deepak2002139&label=Profile%20views&color=D93A7C&style=flat" alt="deepak2002139" />
+  <img src="https://img.shields.io/github/followers/deepak2002139?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/deepak2002139?label=Stars&style=social" alt="stars" />
 </p>
-<hr/>
+
+<p align="center">
+  <a href="https://deepak2002139.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23D93A7C.svg?&style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working as a **Backend Developer** at **TCS (DNB Bank ASA)** – building scalable microservices with Spring Cloud & Kafka.
+- 🌱 Focused on enhancing my skills in **DSA, Java, SpringBoot, Spring Cloud, Apache Kafka, AWS, Python, Flask, ML, DL, RAG**.
+- 📫 Reach me at: **deepak.naman2002@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak-kumar-0b11b7210" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/d_e_e.p_a.k/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## 🛠️ My Skills
+
+### Languages & Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak2002139&theme=radical" alt="deepak2002139" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak2002139&show_icons=true&locale=en&theme=radical" alt="deepak2002139" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak2002139&show_icons=true&locale=en&layout=compact&theme=radical" alt="deepak2002139" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Contribution Graph
+
+<a href="https://github.com/deepak2002139/github-readme-activity-graph">
+  <img alt="Deepak's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=deepak2002139&bg_color=141321&color=D93A7C&line=F85D7F&point=F1E05A" />
+</a>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepak2002139&column=6&margin-w=10&margin-h=10&theme=radical" alt="deepak2002139" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;See+you+next+time+🤗&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24">
+</p>
+
+<hr />
