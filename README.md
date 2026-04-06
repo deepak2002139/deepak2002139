@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently working as a Backend Developer [ Spring cloud Microservices ](https://www.dnb.no/en) TCS (DNB Bank ASA).
 
-- 🌱 Focussed on enhancing my skills in  ** DSA , Java , SpringBoot , Spring Cloud , AWS , Python , Flask , ML , DL. **
+- 🌱 Focussed on enhancing my skills in  ** DSA , Java , SpringBoot , Spring Cloud , Apache Kafka, AWS , Python , Flask , ML , DL, RAG. **
 
 <!-- - 💬 Ask me about **Next  , Html , Css , Figma , DSA ,Operating System, OOPS, DBMS.** -->
 
